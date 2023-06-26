@@ -1,0 +1,77 @@
+.footer{
+    
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: darkblue;
+    color: white;
+    height: max-content;
+    gap: 200px;
+}
+
+
+.nave {
+    display: flex;
+    background-color: blue;
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+    
+}
+.second-header {
+    display: flex;
+    margin-left: 35rem;
+    gap: 4rem;
+}
+.enrol {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    border-radius: 0.4rem;
+}
+
+.bottom-links ul{
+    list-style: none;
+    padding : 0px;
+    text-align :left
+}
+.first{
+background-color: blue;
+display: flex;
+margin-bottom: 5px;
+}
+.first-session{
+display: flex;
+}
+section{
+  background-color: antiquewhite;
+  display: flex; 
+  width: 100%;
+  gap: 10rem;
+}
+.second{
+    display: flex;
+}
+.third{
+ display: flex;   
+}
+.title{
+    align-content: center;
+}
+.fourth{
+    display: flex;
+
+}
+.fourth-button{
+    align-items: center;
+}
+.fifth{
+    display: flex;
+}
+.sixth{
+    align-items: center;
+}
+.six{
+    display: flex;
+}
+.seven{
+    background-color: navy;
+}
